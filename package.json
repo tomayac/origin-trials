@@ -1,7 +1,7 @@
 {
-  "name": "hello-node",
+  "name": "origin-trials",
   "version": "0.0.1",
-  "description": "A simple Node app built on fastify, instantly up and running.",
+  "description": "Origin Trials",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -18,12 +18,10 @@
     "node": "12.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/glitch-hello-node"
+    "url": "git+github.com/tomayac/origin-trials.git"
   },
-  "license": "MIT",
+  "license": "Apache-2.0",
   "keywords": [
-    "node",
-    "glitch",
-    "express"
+    "project-fugu"
   ]
 }
