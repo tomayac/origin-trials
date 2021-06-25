@@ -14,9 +14,6 @@
     "point-of-view": "^4.14.0",
     "node-fetch": "^2.6.1"
   },
-  "engines": {
-    "node": "12.x"
-  },
   "repository": {
     "url": "git+github.com/tomayac/origin-trials.git"
   },
